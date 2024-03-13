@@ -1,2 +1,3 @@
-# blindcap
-BLIND-CAP with gps tracker using esp32
+# SMART BLIND-CAP
+BLIND-CAP with navigation using esp32
+accuracy
